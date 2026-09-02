@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Outputs gerados (opcional — remova as linhas abaixo se quiser versionar relatórios)
+outputs/*.csv
+outputs/*.png
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
